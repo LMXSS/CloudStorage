@@ -1,0 +1,15 @@
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Application\bin\Debug\net8.0\CloudStorage.Application.deps.json
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Application\bin\Debug\net8.0\CloudStorage.Application.dll
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Application\bin\Debug\net8.0\CloudStorage.Application.pdb
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Application\obj\Debug\net8.0\CloudStorage.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Application\obj\Debug\net8.0\CloudStorage.Application.AssemblyInfoInputs.cache
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Application\obj\Debug\net8.0\CloudStorage.Application.AssemblyInfo.cs
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Application\obj\Debug\net8.0\CloudStorage.Application.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Application\obj\Debug\net8.0\CloudStorage.Application.dll
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Application\obj\Debug\net8.0\refint\CloudStorage.Application.dll
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Application\obj\Debug\net8.0\CloudStorage.Application.pdb
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Application\obj\Debug\net8.0\ref\CloudStorage.Application.dll
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Application\obj\Debug\net8.0\CloudStorage.Application.csproj.AssemblyReference.cache
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Application\bin\Debug\net8.0\CloudStorage.Domain.dll
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Application\bin\Debug\net8.0\CloudStorage.Domain.pdb
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Application\obj\Debug\net8.0\CloudSto.E17EE974.Up2Date

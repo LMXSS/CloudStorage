@@ -1,0 +1,11 @@
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Domain\obj\Debug\net8.0\CloudStorage.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Domain\obj\Debug\net8.0\CloudStorage.Domain.AssemblyInfoInputs.cache
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Domain\obj\Debug\net8.0\CloudStorage.Domain.AssemblyInfo.cs
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Domain\obj\Debug\net8.0\CloudStorage.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Domain\bin\Debug\net8.0\CloudStorage.Domain.deps.json
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Domain\bin\Debug\net8.0\CloudStorage.Domain.dll
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Domain\bin\Debug\net8.0\CloudStorage.Domain.pdb
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Domain\obj\Debug\net8.0\CloudStorage.Domain.dll
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Domain\obj\Debug\net8.0\refint\CloudStorage.Domain.dll
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Domain\obj\Debug\net8.0\CloudStorage.Domain.pdb
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Domain\obj\Debug\net8.0\ref\CloudStorage.Domain.dll

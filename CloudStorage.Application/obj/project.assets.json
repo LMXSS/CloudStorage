@@ -1,0 +1,143 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "File.TypeChecker/4.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/FileTypeChecker.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/FileTypeChecker.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
+      "CloudStorage.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CloudStorage.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CloudStorage.Domain.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "File.TypeChecker/4.0.0": {
+      "sha512": "lQEAqMYkvzzt28k45+WkdOSmqEE711xb0GjfFchIq9ogOtj2l0ien2uc9jdp4e95eRD1QAH8r39gKu9cHLt0OA==",
+      "type": "package",
+      "path": "file.typechecker/4.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "docs/README.md",
+        "file.typechecker.4.0.0.nupkg.sha512",
+        "file.typechecker.nuspec",
+        "images/FileTypeCheckerLogo-150.png",
+        "lib/netstandard2.0/FileTypeChecker.dll",
+        "lib/netstandard2.0/FileTypeChecker.pdb"
+      ]
+    },
+    "CloudStorage.Domain/1.0.0": {
+      "type": "project",
+      "path": "../CloudStorage.Domain/CloudStorage.Domain.csproj",
+      "msbuildProject": "../CloudStorage.Domain/CloudStorage.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "CloudStorage.Domain >= 1.0.0",
+      "File.TypeChecker >= 4.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Gabriel Lamas\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Gabriel Lamas\\Desktop\\Projects\\Pessoal\\CloudStorage\\CloudStorage.Application\\CloudStorage.Application.csproj",
+      "projectName": "CloudStorage.Application",
+      "projectPath": "C:\\Users\\Gabriel Lamas\\Desktop\\Projects\\Pessoal\\CloudStorage\\CloudStorage.Application\\CloudStorage.Application.csproj",
+      "packagesPath": "C:\\Users\\Gabriel Lamas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gabriel Lamas\\Desktop\\Projects\\Pessoal\\CloudStorage\\CloudStorage.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Gabriel Lamas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\Gabriel Lamas\\Desktop\\Projects\\Pessoal\\CloudStorage\\CloudStorage.Domain\\CloudStorage.Domain.csproj": {
+              "projectPath": "C:\\Users\\Gabriel Lamas\\Desktop\\Projects\\Pessoal\\CloudStorage\\CloudStorage.Domain\\CloudStorage.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "File.TypeChecker": {
+            "target": "Package",
+            "version": "[4.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
