@@ -1,0 +1,15 @@
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Infrastructure\bin\Debug\net8.0\CloudStorage.Infrastructure.deps.json
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Infrastructure\bin\Debug\net8.0\CloudStorage.Infrastructure.dll
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Infrastructure\bin\Debug\net8.0\CloudStorage.Infrastructure.pdb
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Infrastructure\obj\Debug\net8.0\CloudStorage.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Infrastructure\obj\Debug\net8.0\CloudStorage.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Infrastructure\obj\Debug\net8.0\CloudStorage.Infrastructure.AssemblyInfo.cs
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Infrastructure\obj\Debug\net8.0\CloudStorage.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Infrastructure\obj\Debug\net8.0\CloudStorage.Infrastructure.dll
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Infrastructure\obj\Debug\net8.0\refint\CloudStorage.Infrastructure.dll
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Infrastructure\obj\Debug\net8.0\CloudStorage.Infrastructure.pdb
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Infrastructure\obj\Debug\net8.0\ref\CloudStorage.Infrastructure.dll
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Infrastructure\bin\Debug\net8.0\CloudStorage.Domain.dll
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Infrastructure\bin\Debug\net8.0\CloudStorage.Domain.pdb
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Infrastructure\obj\Debug\net8.0\CloudStorage.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\CloudStorage\CloudStorage.Infrastructure\obj\Debug\net8.0\CloudSto.5EE822BC.Up2Date
